@@ -2,11 +2,11 @@
 
 <span> Linkedin Personal @ -----> 💗 <a href="https://linkedin.com/in/-alisarwar"> **Linkedin** </a> 💗 </span>
 
-- 🌱 Frontend Techs: HTML, CSS/SCSS, JavaScript/Typescript, ReactJS, Redux, GatsbyJS/NextJS & PWA
-- 🌱 Backend Techs: GraphQL, AWS AppSync API, AWS EventDriven Architecture, Netlify Functions & Contentful Headless CMS
+- 🌱 Frontend Techs: HTML, CSS/SCSS, JavaScript/Typescript, ReactJS, NextJS, GatsbyJS, Redux/Context & PWA
+- 🌱 Backend Techs: RestAPI, GraphQLAPI, NodeJS, MERN, AWS AppSync, AWS EventDriven Architecture, Serverless Functions & Headless CMS
 - 🌱 UI/UX Techs: Bootstrap, TailwindCss, React-Bootstrap, Material-UI & Styled Components
-- 🌱 Database Techs: AWS Neptune, AWS Aurora Serverless MySQL, AWS DynamoDB, FaunaDB, MongoDB & Firebase
-- 🌱 Extra Techs: Surge, Firebase, Netlify, Vercel, Jest Testing & Mock Server
+- 🌱 Database Techs: MongoDB, FaunaDB, Firebase, MySQL, AWS DynamoDB, AWS RDS & AWS Neptune
+- 🌱 Extra Techs: Surge, Netlify, Vercel, App Testing & Mock Server
 ---
 
 ### Languages and Tools:
